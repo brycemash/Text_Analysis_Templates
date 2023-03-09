@@ -1,5 +1,5 @@
 # Text_Analysis_Templates
-Templates for analyzing large amount of text.
+Templates for analyzing text data.
 
 Network_Template_Louvain.py and sentiment.py follow a spreadsheet with text("quote"), codes(c1,c2,.. etc.), keywords, and themes. 
 
